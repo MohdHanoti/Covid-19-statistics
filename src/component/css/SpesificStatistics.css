@@ -1,0 +1,40 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+}
+#Search{
+    padding-left: 530px;
+    padding-bottom: 10px;
+    font-size:larger;
+}
+.countryForm{
+    
+    text-align: center;
+    
+    padding-left: 400px;
+    width: 900px;
+    
+      
+}
+.Labels{
+    font-weight:500;
+}
+
+.for_row{
+    display: flex;
+    gap: 1vw;
+ 
+}
+.for_col{
+min-width: 1vw;
+background-color: #F05454;
+}
+.card2{
+
+gap: 1vw;
+}
+.for_date{
+    color: #F05454;
+}
+.card3{
+    background-color: #f5f5f5;
+}

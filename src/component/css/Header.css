@@ -1,0 +1,32 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+}
+.Head{
+    
+   
+    background-color:#F05454;
+    display: flex;
+    height: 100px;
+    
+}
+
+.Title{
+
+    font-size: 35px;
+    padding-top: 20px;
+    
+}
+
+
+.navBar{
+    color: #30475E;
+    height: 70px;
+}
+.NavItem{
+    color: white;
+    padding-right: 25px;
+}
+.about{
+    padding-left: 1000px;
+    color: blue;
+}
