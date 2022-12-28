@@ -58,7 +58,7 @@ export class AllCountries extends Component {
                     <p> Total Deaths Cases:{item.TotalDeaths}</p>
                     <p> Total Recovered Cases:{item.TotalRecovered}</p>
                     <p> Date:{item.Date}</p>
-                    <button className='bton' onClick={()=>this.handelClick(item)}>ADD TO MY RECORDS</button>
+                    <button className='btn btn-danger' onClick={()=>this.handelClick(item)}>ADD TO MY RECORDS</button>
 
               
             </div>
